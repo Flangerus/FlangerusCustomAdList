@@ -1,4 +1,5 @@
 ichnaea.netflix.com
 mtalk.google.com
+alt4-mtalk.google.com
 alt6-mtalk.google.com
 alt8-mtalk.google.com
