@@ -20,3 +20,4 @@ splash-useast-alb-300179555.us-east-1.elb.amazonaws.com
 folder-bancanet-banamex-1311617740.us-east-1.elb.amazonaws.com
 
 prod-3-realtime-lb-840806869.us-east-1.elb.amazonaws.com
+vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
