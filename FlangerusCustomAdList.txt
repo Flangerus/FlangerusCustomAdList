@@ -19,6 +19,7 @@ device-metrics-us.amazon.com
 us-east-1.telemetry.insights.video.a2z.com
 
 statics-marketingsites-wcus-ms-com.akamaized.net
+respaldos.sevisible.com
 
 frames-bancanet-banamex-1414732822.us-east-1.elb.amazonaws.com
 paper-bancanet-banamex-490375294.us-east-1.elb.amazonaws.com
