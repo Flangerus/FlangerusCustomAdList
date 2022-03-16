@@ -34,7 +34,7 @@ uynpzvdvcnpd.com
 r3.o.lencr.org
 1451486870.rsc.cdn77.org
 
-#Kinesis domains, retreived from gchamon thread
+#Kinesis domains, retrieved from gchamon thread
 
 firehose.ap-east-1.amazonaws.com
 kinesis.ap-east-1.amazonaws.com
