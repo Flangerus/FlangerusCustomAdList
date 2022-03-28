@@ -2,6 +2,8 @@ vidox.net
 a1.tuyaus.com
 m1.tuyaus.com
 
+www.bing.com
+
 ichnaea.netflix.com
 
 api.smoot.apple.com
