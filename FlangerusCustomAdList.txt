@@ -32,7 +32,6 @@ folder-bancanet-banamex-1311617740.us-east-1.elb.amazonaws.com
 
 prod-3-realtime-lb-840806869.us-east-1.elb.amazonaws.com
 vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
-us-east-1-elbdefau-1nlhaqqbnj2z8-140214243.us-east-1.elb.amazonaws.com
 
 mejorpreciomexico.com
 uynpzvdvcnpd.com
