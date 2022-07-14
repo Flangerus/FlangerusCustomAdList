@@ -38,6 +38,7 @@ mtalk.google.com
 obo.moatads.com
 ocsp.pki.goog
 paper-bancanet-banamex-490375294.us-east-1.elb.amazonaws.com
+peers.hivestreaming.com
 platform.wondershare.com
 prod-3-realtime-lb-840806869.us-east-1.elb.amazonaws.com
 r3.o.lencr.org
