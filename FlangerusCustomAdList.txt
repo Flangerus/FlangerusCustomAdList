@@ -29,6 +29,7 @@ frames-bancanet-banamex-1414732822.us-east-1.elb.amazonaws.com
 fw.adsafeprotected.com
 g.whatsapp.net
 ichnaea.netflix.com
+img.webnovel.com
 m1.tuyaus.com
 maps.instagram.com
 match.adsrvr.org
@@ -50,11 +51,14 @@ static.ads-twitter.com
 static.adsafeprotected.com
 statics-marketingsites-wcus-ms-com.akamaized.net
 svastx.moatads.com
+ualbusiness.gameloop.com
 us.wondershare.com
 us-east-1.telemetry.insights.video.a2z.com
 uynpzvdvcnpd.com
 vidox.net
 vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
+www.webnovel.com
+
 
 #Kinesis domains, retrieved from gchamon thread
 firehose.ap-east-1.amazonaws.com
