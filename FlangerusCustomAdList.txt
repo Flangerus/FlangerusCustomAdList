@@ -14,6 +14,8 @@ alt8-mtalk.google.com
 api.smoot.apple.com
 bid.g.doubleclick.net
 bing.com
+www2.bing.com
+www.bing.com
 c1.adform.net
 cc.adingo.jp
 clickserve.dartsearch.net
