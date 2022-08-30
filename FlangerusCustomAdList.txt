@@ -58,7 +58,7 @@ uynpzvdvcnpd.com
 vidox.net
 vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
 www.webnovel.com
-
+www.tm.a.prd.aadg.trafficmanager.net
 
 #Kinesis domains, retrieved from gchamon thread
 firehose.ap-east-1.amazonaws.com
