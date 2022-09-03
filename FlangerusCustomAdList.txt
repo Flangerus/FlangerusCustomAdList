@@ -35,6 +35,7 @@ img.webnovel.com
 m1.tuyaus.com
 maps.instagram.com
 match.adsrvr.org
+meta-api.reddit.com
 mejorpreciomexico.com
 mqtt-mini.facebook.com
 mtalk.google.com
