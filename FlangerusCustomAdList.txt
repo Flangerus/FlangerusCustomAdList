@@ -21,6 +21,7 @@ cc.adingo.jp
 clickserve.dartsearch.net
 cm.g.doubleclick.net
 config.edge.skype.com
+crls.pki.goog
 cs.chocolateplatform.com
 device-metrics-us.amazon.com
 dt.adsafeprotected.com
