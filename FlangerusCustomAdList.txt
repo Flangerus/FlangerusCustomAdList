@@ -41,7 +41,6 @@ mejorpreciomexico.com
 mqtt-mini.facebook.com
 mtalk.google.com
 obo.moatads.com
-ocsp.pki.goog
 paper-bancanet-banamex-490375294.us-east-1.elb.amazonaws.com
 peers.hivestreaming.com
 platform.wondershare.com
