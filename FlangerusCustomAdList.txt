@@ -22,6 +22,7 @@ folder-bancanet-banamex-1311617740.us-east-1.elb.amazonaws.com
 frames-bancanet-banamex-1414732822.us-east-1.elb.amazonaws.com
 fw.adsafeprotected.com
 g.whatsapp.net
+host.sdserver144.com.br
 ichnaea.netflix.com
 img.webnovel.com
 m1.tuyaus.com
@@ -38,6 +39,7 @@ prod-3-realtime-lb-840806869.us-east-1.elb.amazonaws.com
 r3.o.lencr.org
 respaldos.sevisible.com
 s0.2mdn.net
+sdserver144.com.br
 smetrics.banamex.com
 splash-useast-alb-300179555.us-east-1.elb.amazonaws.com
 static.ads-twitter.com
@@ -52,3 +54,4 @@ vidox.net
 vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
 www.webnovel.com
 www.tm.a.prd.aadg.trafficmanager.net
+
