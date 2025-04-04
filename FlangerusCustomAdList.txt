@@ -26,6 +26,8 @@ geo.prod.do.dsp.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
+graph.facebook.com
+graph.oculus.com
 host.sdserver144.com.br
 ichnaea.netflix.com
 img.webnovel.com
@@ -43,7 +45,9 @@ prod-3-realtime-lb-840806869.us-east-1.elb.amazonaws.com
 r3.o.lencr.org
 respaldos.sevisible.com
 s0.2mdn.net
+scontent.oculuscdn.com
 sdserver144.com.br
+securecdn.oculus.com
 smetrics.banamex.com
 splash-useast-alb-300179555.us-east-1.elb.amazonaws.com
 static.ads-twitter.com
@@ -58,4 +62,3 @@ vidox.net
 vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
 www.webnovel.com
 www.tm.a.prd.aadg.trafficmanager.net
-
